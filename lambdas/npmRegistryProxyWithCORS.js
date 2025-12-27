@@ -2,7 +2,7 @@
 // npmgraph.js.org origin
 //
 // This is hosted on @broofa's personal AWS account (for now)
-const NPM_REGISTRY_URL = 'https://registry.npmjs.org';
+const NPM_REGISTRY_URL = 'https://registry.npmmirror.com';
 
 export async function handler(event) {
   const req = event.requestContext.http;

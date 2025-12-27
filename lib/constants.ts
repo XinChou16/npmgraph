@@ -1,4 +1,4 @@
-export const DEFAULT_NPM_REGISTRY = 'https://registry.npmjs.org';
+export const DEFAULT_NPM_REGISTRY = 'https://registry.npmmirror.com';
 
 export const COLORIZE_BUS = 'bus';
 export const COLORIZE_COLORS = [
